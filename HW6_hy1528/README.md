@@ -3,7 +3,7 @@ This is for HW6 PUI courses
 Assignment1:Review Comment
 
 ### 1. The Null and Alternative hypothesis are formulated correctly in both words and formular. It would be better to put ‘avgtime'in the subscript like this
-H<sub>0</sub> : $W_{avgtime}$ <= $M_{avgtime}$
+H<sub>0</sub> : W<sub>avgtime</sub> <= M<sub>avgtime</sub>
 ### and denote that 'W' stands for women, 'M' stands for men. and 'avgtime' stands for average time of riding during the weekdays
 
 ### 2. The data supports the project: it has the appropriate variables to answer the question, and was properly pre-processed to extract the needed columns.
