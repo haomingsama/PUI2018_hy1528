@@ -18,7 +18,7 @@ H<sub>0</sub> : W<sub>avgtime</sub> <= M<sub>avgtime</sub>
 
 ## Assignment 2: Literature choices of statistical tests as well as for the Readme.md
 
-I cooperate with xxx and xxx in this part. Please see our work below.
+I cooperate with Jianwei Li and Wenjie Zheng in this part. Please see our work below.
 
 ----------------------------------------------------------------------------------------------------------------------------
  
@@ -31,23 +31,20 @@ Logistic Regression	|1. Nose Video, 2. Age(years); 3.Fractional disease duration
 
   
   Include the main plot of the paper (the plot that summarized the result)	
-
+![main plot](Figure1.PNG)
+![main plot](Figure2.PNG)
+![main plot](Figure3.PNG)
 ----------------------------------------------------------------------------------------------------------------------------
 
 
 ## Assignment 3 
-I worked alone for this part. I performed the tasks as required by the skeleton notebook and defined evalChisq function as this was mentioned in the slack chat as something that we have to define by ourselves.
+
+I worked alone for this part. I follwed the instruction that the skelton gives me .
 
 ## Assignment 4 
-I worked alone for this part.  I started with using the helper functions that i made during HW4 that downloads multiple citibike datasets and compiles them into one dataframe. Since the assignment required atleast two months, i made use of the August and September 2018 citibike data. I've done some data exploration and outlier detection, although manually deteremined the threshold, and performed the required two sample testing.
+I worked alone for this part.
+I choose April, August and December as my three data set for the tripduration question and extra credit question.
+I perform all the test on entire dataset and sample dataset.
+For extra credit problem, I use Google maps API to help me determine which borough does the start station belongs to.
 
-For the extra credit problem, i took advantage of python packages Geopandas and Shapely to assist me in identifying if the Longitude and Latitude data falls under a certain borough. I took advantage of NYC Open data to get borough boundaries (https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm), since i'm encountering difficulties automating the download process of the geojson file, i've downloaded it manually and uploaded the file in my repository [here](https://raw.githubusercontent.com/jinalklaulitz/PUI2018_msm796/master/HW5_msm796/Borough%20Boundaries.geojson ). Then i checked if Long-Lat points are within the boundary <b>(NOTE: THIS TAKES REALLY LONG)</b>. From there, i did some necessarily outlier detection, exploratory data analysis and performed the required testing.
-
-Required libraries that may not be in the default environment of the ADRF's for python 3.7:
-dateutil
-requests
-zipfile
-io
-Geopandas
- Shapely
 ----------------------------------------------------------------------------------------------------------------------------
