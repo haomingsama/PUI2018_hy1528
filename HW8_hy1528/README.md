@@ -4,7 +4,9 @@ For Assignment visulization, I visulize the school district performance on SAT e
 
 I use three dataset : 
 school district : https://data.cityofnewyork.us/Education/School-Districts/r8nu-ymqj
+
 High school directory: https://data.cityofnewyork.us/Education/2017-DOE-High-School-Directory/s3k6-pzi2
+
 school SAT score:  https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4
 
 
