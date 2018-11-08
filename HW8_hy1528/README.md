@@ -9,8 +9,7 @@ High school directory: https://data.cityofnewyork.us/Education/2017-DOE-High-Sch
 
 school SAT score:  https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4
 
-
-
+or they can be download from this repository
 
 ## Assignment 2:
 
