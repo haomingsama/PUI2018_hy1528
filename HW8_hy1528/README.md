@@ -11,6 +11,13 @@ school SAT score:  https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf
 
 or they can be download from this repository
 
+![Alt text](../HW8_hy1528/CR-d.jpeg)
+
+![Alt text](../HW8_hy1528/CR.jpeg)
+![Alt text](../HW8_hy1528/math.jpeg)
+![Alt text](../HW8_hy1528/writing.jpeg)
+![Alt text](../HW8_hy1528/total.jpeg)
+
 ## Assignment 2:
 
 Link of Authorea report : https://www.authorea.com/336151/nuil-MCRM33sMgTPUx8HSg
