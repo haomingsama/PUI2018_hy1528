@@ -10,5 +10,8 @@ soa238_plotReview_hy1528.md
 
 **Assignment 2 **
 
+I finished by myself
 
 **Assignment 3 **
+
+I finished by myself
