@@ -19,5 +19,13 @@ The topic is interesting. The clear title, legend, x-axis label and y-axis label
 
 
 
-#### Before 
+### Before 
 ![name](CR-d.jpeg)
+
+### Figure1:
+The figures shows all the high school mean critical reading score on the school district map. The lighter the color indicate the higher the score. From the map, although it is very difficult, we could identify which school district have higher score in the SAT exam. For example, the school district in Manhattan have the highest mean critical reading score.
+
+### After modication
+![name](HW11_hy1528.png)
+### Figure1:
+The figures shows all the high school mean critical reading score on the school district map. The darker the color indicate the higher the score. From the map, we could identify which school district have higher score in the SAT exam. For example, the school district in Manhattan have the highest mean critical reading score.
