@@ -1,5 +1,7 @@
 ## Assignment 1
 
+For Assignment1, I worked by myself
+
 ## Assignment 2
 
 #### As for the two review I received both pointing out the problem in my first plot. I would only show the modicaton of the first plot in the markdown file. I also upload another original markdown file for your reference. 
