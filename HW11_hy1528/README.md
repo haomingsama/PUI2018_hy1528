@@ -1,6 +1,9 @@
 ## Assignment 1
 
 ## Assignment 2
+
+#### As for the two review I received both pointing out the problem in my first plot. I would only show the modicaton of the first plot in the markdown file. I also upload another original markdown file for your reference. 
+
 **The review I received from jl9489 :**
 
 "I just have one question: for Figure 1, I'm assuming that each dot represents a different school district. However, for the other figures (Figure 2-5), **the school districts are not as clear.**
@@ -23,9 +26,9 @@ The topic is interesting. The clear title, legend, x-axis label and y-axis label
 ![name](CR-d.jpeg)
 
 ### Figure1:
-The figures shows all the high school mean critical reading score on the school district map. The lighter the color indicate the higher the score. From the map, although it is very difficult, we could identify which school district have higher score in the SAT exam. For example, the school district in Manhattan have the highest mean critical reading score.
+The figures shows all the high school mean critical reading score on the school district map. Each dot represent each shcool mean critical reading score. The lighter the color indicate the higher the score. From the map, although it is very difficult, we could identify which school district have higher score in the SAT exam. For example, the school district in Manhattan have the highest mean critical reading score.
 
 ### After modication
 ![name](HW11_hy1528.png)
 ### Figure1:
-The figures shows all the high school mean critical reading score on the school district map. The darker the color indicate the higher the score. From the map, we could identify which school district have higher score in the SAT exam. For example, the school district in Manhattan have the highest mean critical reading score.
+The figures shows all the high school mean critical reading score on the school district map. Each dot represent each shcool mean critical reading score. The darker the color indicate the higher the score. From the map, we could identify which school district have higher score in the SAT exam. For example, the school district in Manhattan have the highest mean critical reading score.
